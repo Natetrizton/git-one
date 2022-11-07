@@ -3,6 +3,16 @@
 
 
 p {
+    color: #0000ff;
+    margin: 40px;
+    padding: 50px;
+    background-color: red;
+    border-radius: 50px;
+    border: 4px;
+    border-color: beige;
+}
+
+h1{
     color: blue;
-    margin: 20px;
+  
 }
